@@ -20,7 +20,7 @@ This repository provides a template for building an OpenAI chatbot with a modern
 1. **Clone the repository:**
    ```bash
    git clone <repository-url>
-   cd chat
+   cd python-chat
    ```
 
 2. **Create a virtual environment:**
